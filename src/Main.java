@@ -18,7 +18,7 @@ public class Main {
         int b=sbi.checkBalance();
 
         SBIBank sbiAcc=new SBIBank();
-        sbiAcc.setName("Rahul");
+        sbiAcc.setName("Biju");
         sbiAcc.setBalance(10000);
         sbiAcc.setPassword("pass");
 
